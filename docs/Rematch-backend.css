@@ -1072,7 +1072,7 @@ section .da-scroller::-webkit-scrollbar-thumb {
 
 .theme-dark .lookFilled-1Gx00P.colorBrand-3pXr91 {
   background: transparent;
-  /* border: 1px solid rgba(237, 237, 237, 0.75); */
+  border: 1px solid rgba(237, 237, 237, 0.75);
   color: rgba(237, 237, 237, 0.8);
 }
 
